@@ -1,0 +1,5 @@
+{
+  "name": "Prompt IDE & Context Visualizer",
+  "description": "A hyper-minimalist Prompt IDE for engineering and visualizing LLM context.",
+  "requestFramePermissions": []
+}
